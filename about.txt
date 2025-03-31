@@ -1,0 +1,6 @@
+Funkcie aplikácie:
+- Analyzuje npríklad e-mailový text alebo správu zo support formulára
+- Určí, či ide o: Reklamáciu/Kritickú sťažnosť/Dotaz na faktúru/Všeobecnú otázku
+- Vyhodnotí emóciu: pozitívna / neutrálna / negatívna
+- Rozpozná mená, dátumy, čísla faktúr
+- Priradí správu do správneho frontu support tímu
